@@ -1,9 +1,3 @@
-// // document.getElementById("count-el").innerText = 5;
-
-//  let count = 5
-
-//  console.log(count)
-
 let countEl = document.getElementById("count-el");
 
 console.log(countEl);
